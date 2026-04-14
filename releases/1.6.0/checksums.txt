@@ -1,0 +1,3 @@
+
+433ea60af3766f63a4aed7add24b3491c9f0bd7dea639429e44ca14122727cbc  clrmo-fmo-setup-1.6.0.exe
+b11a0af3ad7836201efe4e21d9853968be39ad9283be65b03ae5a8751b904a81  clrmo-file-meta-organizer-1.6.0-x64.AppImage
